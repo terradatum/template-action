@@ -1,5 +1,4 @@
 # Action Template for Typescript
-[![npm license][license-image]][license-url]
 
 ## Workflow
 
@@ -44,7 +43,6 @@ See [CHANGELOG][changelog-url].
 This project released under the [MIT License][license-url].
 
 <!-- Links: -->
-[license-image]: https://img.shields.io/npm/l/@terradatum/template-action.svg
 [license-url]: https://github.com/terradatum/template-action/blob/master/LICENSE.md
 
 [changelog-url]: https://github.com/terradatum/template-action/blob/master/CHANGELOG.md
